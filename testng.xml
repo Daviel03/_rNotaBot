@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/davie/IdeaProjects/_rNotaBot">
+        <classes>
+            <class name="TestCommentInteraction"></class>
+            <class name="TestAccountSettings"></class>
+            <class name="RedditPostAPI"></class>
+            <class name="RedditUserAPI"></class>
+            <class name="TestHomePageUI"></class>
+            <class name="TestRedditPost"></class>
+            <class name="TestRedditChatExample"></class>
+            <class name="TestNotificationSystem"></class>
+        </classes>
+    </test>
+</suite>
